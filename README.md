@@ -1,68 +1,101 @@
-# MRKL s. r. o.
+---
+title: "MRKL s. r. o."
+subtitle: "Zařídíme Vaši akci mrknutím oka!"
+---
 
-Zařídíme Vaši akci mrknutím oka!
-
-# Cíl
+## Cíl
 
 Do tři čtvrtě roka založit firmu zabývající se organizací kulturních akcí v regionu Ústí nad Labem, zaujmout místo na trhu a získat průměrně 8 zakázek za měsíc.
 
-# Role
+---
 
-- Rosta - manazer
+## Tým
+
 - Martin - finance
-- Kuba - krize
+- Rosta - manažer
+- Kuba - krizový manažer
 - Laila - marketing
 
-# Fáze a plany
+---
 
-1. založení s.r.o. - 14 dní
-2. získání investic a sponzorů - dva měsíce
-3. získání zdrojů (pronájem atd.)- měsíc (crash)
-4. získání prvotních zakázek - dva měsíce
-5. dosažení cíle - 3 měsíců
+Následují fáze projektu...
+<!-- tady bude obrázek :) -->
 
-Vklad:
-    každý 20 000 -- 80 000
-    dotace od města 30 000
-    celkem 110 000
+---
 
-Počáteční výdaje:
-    5000 notář zápis do obch. rejstříku
-    80 000 technika (počítače, mobily, tarify, tiskárna)
-    první nájem kanceláře
+# Fáze 1
 
-Výdaje:
-    doména 2000 ročně
-    kancelář 5000 mesíčně
-    marketing 10 000 měsíčně
-    doprava 4000 měsíčně
+= založení s.r.o
 
-Partneři catering:
-    Plzeň pivo
-    Kofola
-    Strážnické brambůrky
+- **Časový plán:** 14 dní
+- **Finanční plán:**
+  - vklad od každého zakladatele 20 000 Kč (80 000 Kč celkem)
+  - zápis do obchodního rejstříku -8 700 Kč
+  - **výsledně 71 300 Kč**
 
-Partneři digitalizace:
-    O2 -- 80 000 jednorázově
+---
 
-Partneři:
-    město Ústí nad Labem
-    domov seniorů Dobětice
-    květinářství Jana
+# Fáze 2
 
-Příjmy a výdaje z akcí:
-(ceny jsou za zprostředkování, přičítají se výdaje)
-    organizátor na místě, 20 000 za akci
-    pronájem prostoru, 2000 za službu
-    tvorba harmonogramu, 3000 za službu
-    konzultace, 500 za hod.
-    zprostředkování kontaktu, 1000 za službu
-    catering, 500 za osobu
-    reklama, 2000 za službu
-    technika, 5000 za službu
-    dekorace, 5000 za službu
-    moderátor, 10 000 za službu
-    doprava, za benzín 1000 za dovoz
+= získání investic a sponzorů
+
+- **Časový plán:** 2 měsíce
+- **Finanční plán:**
+  - dotace od města pro začínající firmy 30 000 Kč
+  - sponzoring O2 na digitalizaci 80 000 Kč
+  - doprava -2 000 Kč/měsíc
+  - **výsledně 179 300 Kč**
+
+- **Partneři:**
+  - Kofola
+  - Pilsner Urquell
+  - Květinové Studio Jana
+  - Domov Pro Seniory Dobětice
+  - Strážnické brambůrky
+
+---
+
+# Fáze 3
+
+= získání zdrojů
+
+- **Časový plán:** 1 měsíc (možnost crashovat)
+- **Finanční plán:**
+  - doména 200 Kč/měsíc
+  - digitalizace -80 000 Kč
+  - pronájem kanceláře -5 000 Kč/měsíc
+  - kauce za pronájem -10 000 Kč
+  - doprava -2 000 Kč/měsíc
+  - **výsledně 82 100 Kč**
+
+---
+
+# Fáze 4
+
+= získání prvotních zakázek
+
+- **Časový plán:** 2 měsíce
+- **Finanční plán:**
+  - nájem -5 000 Kč/měsíc
+  - marketing -10 000 měsíčně
+  - doprava -2 000 Kč/měsíc
+  - zakázky 40 000 Kč/měsíc
+  - **výsledně 138 100 Kč**
+
+---
+
+# Ceny jsou za zprostředkování
+organizátor na místě, 20 000 za akci
+pronájem prostoru, 2000 za službu
+tvorba harmonogramu, 3000 za službu
+konzultace, 500 za hod.
+zprostředkování kontaktu, 1000 za službu
+catering, 500 za osobu
+reklama, 2000 za službu
+technika, 5000 za službu
+dekorace, 5000 za službu
+moderátor, 10 000 za službu
+doprava, za benzín 1000 za dovoz
 
 # Balíčky 
 
@@ -73,21 +106,74 @@ Příjmy a výdaje z akcí:
 - 8 akcí za měsíc => 148000 měsíčně zisk => 37000 na osobu
 - vklad se nám vrátí za 4 zakázky
 
-# SWOT
+---
 
-- S - znalost prostředí a lidí, osobní oslovení partnerů, spolupráce s městem
-- W - počátenčně málo zaměstananců, bez kontaktů, menší cílový trh než ve větších městech, málý vklad, závislost na regionálních dotacích
-- O - slabá konkurence, rozšíření do okolních okresů, regionální média jsou levné a účinné
-- T - malý počet zakázek, špatné počasí, sezónnost, možná konkurence
+# Fáze 5
 
-# Rizika
+= dosažení cíle
+
+- **Časový plán:** 3 měsíce
+- **Finanční plán:**
+  - nájem -5 000 Kč/měsíc
+  - marketing -10 000 měsíčně
+  - doprava -4 000 Kč/měsíc
+  - zakázky průměrně 100 000 Kč/měsíc
+  - **výsledně 381 100 Kč**
+
+Plánovaná návratnost je **376 %**.
+
+---
+
+# SWOT analýza
+
+## Silné stránky
+
+- znalost prostředí a lidí
+- osobní oslovení partnerů
+- spolupráce s městem
+
+## Slabé stránky
+
+- počátečně málo zaměstananců
+- v začátku bez kontaktů
+- menší cílový trh než ve větších městech
+- závislost na regionálních dotacích
+
+---
+
+# SWOT analýza
+
+## Příležitosti
+
+- slabá konkurence
+- rozšíření do okolních okresů
+- regionální média jsou levná a účinná
+
+## Hrozby
+
+- malý počet zakázek
+- špatné počasí
+- sezónnost
+- vznik konkurence
+
+---
+
+# Analýza rizik
 
 - sezónnost a špatné počasí
-  - 5\*1
-  - KONTROLA
-- někdo založí firmu podobnou naší, může nám přebrat trh.
-  - 2\*5
-  - hodně osobní kontakt, nezaostávat za moderními trendy, možnost monopolu pro eliminaci konkurence REDUKCE
-- ztráta dotací by mohla být likvidační
-  - 3\*4
-  - tvorba vlastního kapitálu, udržovat dobré vztahy -- nosit sekretářce starosty každý měsíc kytky, šetrné hospoodaření s financemi KONTROLA
+  - váha $5\cdot3 = 15$
+  - řešení: kontrola předpovědi, sledování trendů
+
+- vznik konkurence
+  - váha $2\cdot5 = 10$
+  - řešení: dobré vztahy s klienty, monopolizace trh
+
+- nezískání dalších dotací
+  - váha $2\cdot3 = 6$
+  - řešení: tvorba vlastního kapitálu, šetrné hospoodaření s financemi, nosit manželce starosty kytku
+
+---
+
+# Závěr a diskuse
+
+- po skončení projektu možnost expanze -- nové regiony, více zaměstnanců...
