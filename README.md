@@ -1,8 +1,25 @@
-MRKL s. r. o.
+# MRKL s. r. o.
 
 Zařídíme Vaši akci mrknutím oka!
 
-Cíl: Do tři čtvrtě roka založit firmu zabývající se organizací kulturních akcí v regionu Ústí nad Labem, zaujmout místo na trhu a získat průměrně 8 zakázek za měsíc.
+# Cíl
+
+Do tři čtvrtě roka založit firmu zabývající se organizací kulturních akcí v regionu Ústí nad Labem, zaujmout místo na trhu a získat průměrně 8 zakázek za měsíc.
+
+# Role
+
+- Rosta - manazer
+- Martin - finance
+- Kuba - krize
+- Laila - marketing
+
+# Fáze a plany
+
+1. založení s.r.o. - 14 dní
+2. získání investic a sponzorů - dva měsíce
+3. získání zdrojů (pronájem atd.)- měsíc (crash)
+4. získání prvotních zakázek - dva měsíce
+5. dosažení cíle - 3 měsíců
 
 Vklad:
     každý 20 000 -- 80 000
@@ -47,35 +64,30 @@ Příjmy a výdaje z akcí:
     moderátor, 10 000 za službu
     doprava, za benzín 1000 za dovoz
 
-Balíčky 
-    Mini - 1x konzultace, návrh harmonogramu, seznam doporučených dodavatelů, návrh rozpočtu - 4000 - 8000
-    Standart - 2x konzultace, Detailní harmonogram, Doporučení a komunikace s dodatvatelim přítomnost organizátoram koordinace hostů - 10000 - 15000
-    Komplet - Neomezený počet konzultacím Kompletní plánování (rozpočet, dodavatelé, program), vedení všech kontaktů (hudba/DJ, catering, prostory), koordinace akce, technika,dekorace, kompletní harmonogram, fotograf, doprava - 25000 - 50000
-    průměrný výdělek: 13000 - 24000
-    8 akcí za měsíc => 148000 měsíčně zisk => 37000 na osobu
-    vklad se nám vrátí za 4 zakázky
+# Balíčky 
 
-SWOT:
-    S - znalost prostředí a lidí, osobní oslovení partnerů, spolupráce s městem
-    W - počátenčně málo zaměstananců, bez kontaktů, menší cílový trh než ve větších městech, málý vklad, závislost na regionálních dotacích
-    O - slabá konkurence, rozšíření do okolních okresů, regionální média jsou levné a účinné
-    T - malý počet zakázek, špatné počasí, sezónnost, možná konkurence
+- Mini - 1x konzultace, návrh harmonogramu, seznam doporučených dodavatelů, návrh rozpočtu - 4000 - 8000
+- Standart - 2x konzultace, Detailní harmonogram, Doporučení a komunikace s dodatvatelim přítomnost organizátoram koordinace hostů - 10000 - 15000
+- Komplet - Neomezený počet konzultacím Kompletní plánování (rozpočet, dodavatelé, program), vedení všech kontaktů (hudba/DJ, catering, prostory), koordinace akce, technika,dekorace, kompletní harmonogram, fotograf, doprava - 25000 - 50000
+- průměrný výdělek: 13000 - 24000
+- 8 akcí za měsíc => 148000 měsíčně zisk => 37000 na osobu
+- vklad se nám vrátí za 4 zakázky
 
-Rizika:
-    sezónnost a špatné počasí -- vysoce pravděpodobné a nelze ovlivnit. akce lze přesunout.5\*1 KONTROLA
-    někdo založí firmu podobnou naší, může nám přebrat trh. hodně osobní kontakt, nezaostávat za moderními trendy, možnost monopolu pro eliminaci konkurence 2\*5 REDUKCE
-    ztráta dotací by mohla být likvidační -- tvorba vlastního kapitálu, udržovat dobré vztahy -- nosit sekretářce starosty každý měsíc kytky, šetrné hospoodaření s financemi 3\*4 KONTROLA
+# SWOT
 
-Role:
-    Rosta - manazer
-    Martin - finance
-    Kuba - krize
-    Laila - marketing
+- S - znalost prostředí a lidí, osobní oslovení partnerů, spolupráce s městem
+- W - počátenčně málo zaměstananců, bez kontaktů, menší cílový trh než ve větších městech, málý vklad, závislost na regionálních dotacích
+- O - slabá konkurence, rozšíření do okolních okresů, regionální média jsou levné a účinné
+- T - malý počet zakázek, špatné počasí, sezónnost, možná konkurence
 
-Fáze:
-1. založení s.r.o. - 14 dní
-2. získání investic a sponzorů - dva měsíce
-3. získání zdrojů (pronájem atd.)- měsíc (crash)
-4. získání prvotních zakázek - dva měsíce
-5. dosažení cíle - 3 měsíců
-6. expanze
+# Rizika
+
+- sezónnost a špatné počasí
+  - 5\*1
+  - KONTROLA
+- někdo založí firmu podobnou naší, může nám přebrat trh.
+  - 2\*5
+  - hodně osobní kontakt, nezaostávat za moderními trendy, možnost monopolu pro eliminaci konkurence REDUKCE
+- ztráta dotací by mohla být likvidační
+  - 3\*4
+  - tvorba vlastního kapitálu, udržovat dobré vztahy -- nosit sekretářce starosty každý měsíc kytky, šetrné hospoodaření s financemi KONTROLA
