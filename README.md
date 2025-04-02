@@ -2,7 +2,7 @@ MRKL s. r. o.
 
 Zařídíme Vaši akci mrknutím oka!
 
-Cíl: Do půl roka založit firmu zabývající se organizací kulturních akcí v regionu Ústí nad Labem.
+Cíl: Do tři čtvrtě roka založit firmu zabývající se organizací kulturních akcí v regionu Ústí nad Labem, zaujmout místo na trhu a získat průměrně 8 zakázek za měsíc.
 
 Vklad:
     každý 20 000 -- 80 000
@@ -23,6 +23,7 @@ Výdaje:
 Partneři catering:
     Plzeň pivo
     Kofola
+    Strážnické brambůrky
 
 Partneři digitalizace:
     O2 -- 80 000 jednorázově
@@ -52,7 +53,7 @@ Balíčky
     Komplet - Neomezený počet konzultacím Kompletní plánování (rozpočet, dodavatelé, program), vedení všech kontaktů (hudba/DJ, catering, prostory), koordinace akce, technika,dekorace, kompletní harmonogram, fotograf, doprava - 25000 - 50000
     průměrný výdělek: 13000 - 24000
     8 akcí za měsíc => 148000 měsíčně zisk => 37000 na osobu
-    vklad se nám vrátí za ...
+    vklad se nám vrátí za 4 zakázky
 
 SWOT:
     S - znalost prostředí a lidí, osobní oslovení partnerů, spolupráce s městem
@@ -61,6 +62,20 @@ SWOT:
     T - malý počet zakázek, špatné počasí, sezónnost, možná konkurence
 
 Rizika:
-    sezónnost a špatné počasí -- vysoce pravděpodobné a nelze ovlivnit. akce lze přesunout.
-    někdo založí firmu podobnou naší, může nám přebrat trh. hodně osobní kontakt, nezaostávat za moderními trendy, možnost monopolu pro eliminaci konkurence
-    ztráta dotací by mohla být likvidační
+    sezónnost a špatné počasí -- vysoce pravděpodobné a nelze ovlivnit. akce lze přesunout.5\*1 KONTROLA
+    někdo založí firmu podobnou naší, může nám přebrat trh. hodně osobní kontakt, nezaostávat za moderními trendy, možnost monopolu pro eliminaci konkurence 2\*5 REDUKCE
+    ztráta dotací by mohla být likvidační -- tvorba vlastního kapitálu, udržovat dobré vztahy -- nosit sekretářce starosty každý měsíc kytky, šetrné hospoodaření s financemi 3\*4 KONTROLA
+
+Role:
+    Rosta - manazer
+    Martin - finance
+    Kuba - krize
+    Laila - marketing
+
+Fáze:
+1. založení s.r.o. - 14 dní
+2. získání investic a sponzorů - dva měsíce
+3. získání zdrojů (pronájem atd.)- měsíc (crash)
+4. získání prvotních zakázek - dva měsíce
+5. dosažení cíle - 3 měsíců
+6. expanze
