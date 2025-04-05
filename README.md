@@ -6,7 +6,7 @@ theme: Rochester
 
 # Cíl projektu
 
-Do tři čtvrtě roka založit firmu zabývající se organizací kulturních akcí v regionu Ústí nad Labem, zaujmout místo na trhu a získat průměrně 8 zakázek za měsíc.
+Do tři čtvrtě roka založit firmu zabývající se organizací kulturních a&nbsp;společenských akcí v regionu Ústí nad Labem, zaujmout místo na trhu a získat průměrně 8 zakázek za měsíc.
 
 # Tým a role
 
@@ -15,10 +15,9 @@ Do tři čtvrtě roka založit firmu zabývající se organizací kulturních ak
 - Kuba -- krizový manažer
 - Laila -- reklama a marketing
 
----
+# Plán projektu
 
-Následují fáze projektu...
-<!-- tady bude obrázek :) -->
+![](osa.png)
 
 # Fáze 1
 
@@ -128,7 +127,7 @@ Plánovaná návratnost je **376 %**.
 
 - nezískání dalších dotací
   - význam: $2\cdot3 = 6$
-  - řešení: tvorba vlastního kapitálu, šetrné hospodaření s financemi, nosit manželce starosty kytku
+  - řešení: tvorba vlastního kapitálu, šetrné hospodaření
 
 # Závěr a diskuse
 
